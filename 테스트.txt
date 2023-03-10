@@ -1,1 +1,3 @@
-printf("Hello World")
+main(void) {
+printf("Hello World");
+};
